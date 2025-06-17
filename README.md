@@ -6,21 +6,41 @@ Saya merupakan pribadi yang suka dengan bahasa pemrograman dan tertarik untuk be
 
 ## Pengalaman Kerja
 
+### Senior Backend Developer
+**PT Tokoonderdil Karya Utama** (Pekerja Lepas)
+*Januari 2025 - Saat ini (6 bulan)*
+Di lokasi
+*Keahlian: Go (Programming Language), Remote Procedure Call (RPC), Flutter*
+
+### Senior Development Specialist
+**PT Nieve Aplikasi Mandiri** (Pekerja Lepas)
+*Juli 2024 - Desember 2024 (6 bulan)*
+Cengkareng, Jakarta Raya, Indonesia (Gabungan)
+*Keahlian: Java Swing, Ticketing Airline*
+
 ### Research And Development Engineer
-**PT INKOMBIZZ** | Jakarta Barat
-*Juni 2020 - Juni 2024 (4 tahun 1 bulan)* <mcreference link="https://www.linkedin.com/in/imam-solikhin-9670a0135" index="1">1</mcreference>
+**PT INKOMBIZZ** (Purnawaktu)
+*Juni 2020 - Juni 2024 (4 tahun 1 bulan)*
+Jakarta Barat
+*Keahlian: PHP, Vue.js, Laravel, Back-End Web Development, Gitlab, Teknologi Informasi, Jenkins, PostgreSQL, Python (Programming Language), Java, Skill Development, Spring Framework, Laravel Lumen, MySQL, Front-End Development, Object-Oriented Programming (OOP), Linux Server, Docker Products, Continuous Integration and Continuous Delivery (CI/CD), Nuxt.js*
 
 ### Assistant Manager
-**PT Kobra Musik Multimedia** | Jl Graha Raya Bintaro, Tangerang Selatan
-*Februari 2019 - Maret 2020 (1 tahun 2 bulan)* <mcreference link="https://www.linkedin.com/in/imam-solikhin-9670a0135" index="1">1</mcreference>
+**PT Kobra Musik Multimedia** (Purnawaktu)
+*Februari 2019 - Maret 2020 (1 tahun 2 bulan)*
+Jl Graha Raya Bintaro, Tangerang Selatan (Di lokasi)
+*Keahlian: Management, Perencanaan Strategis, Teknologi Informasi, IT Management, Team Leadership*
 
 ### Full Stack Developer
-**PT Informasi Komersial Bisnis** | Jakarta Barat
-*Juni 2015 - Januari 2019 (3 tahun 8 bulan)* <mcreference link="https://www.linkedin.com/in/imam-solikhin-9670a0135" index="1">1</mcreference>
+**PT Informasi Komersial Bisnis**
+*Juni 2015 - Januari 2019 (3 tahun 8 bulan)*
+Jakarta Barat (Di lokasi)
+*Keahlian: PHP, JavaScript, Struts, Pengembangan Web, PostgreSQL, Java, Java Web Services, WebWorks, MySQL, MySQLi*
 
 ### Technician
-**PT. Putra Mega Mandiri** | Cileungsi, Jawa Barat, Indonesia
-*Maret 2013 - April 2014 (1 tahun 2 bulan)* <mcreference link="https://www.linkedin.com/in/imam-solikhin-9670a0135" index="1">1</mcreference>
+**PT. Putra Mega Mandiri** (Paruh Waktu)
+*Maret 2013 - April 2014 (1 tahun 2 bulan)*
+Cileungsi, Jawa Barat, Indonesia
+*Keahlian: IT Operations, CCTV Installation, Laser Cutting*
 
 ## Keahlian
 
